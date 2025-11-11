@@ -41,4 +41,15 @@ The analysis identifies patterns in trader performance during different sentimen
 ---
 
 ## 📊 Folder Structure
+ds_Raj_Kumar_Rout/
+├── notebook_1.ipynb # Main Colab notebook
+├── csv_files/
+│ ├── daily_merged_with_sentiment.csv
+│ └── historical_cleaned.csv
+├── outputs/
+│ ├── daily_closed_pnl_sum.png
+│ ├── daily_trade_count.png
+│ └── pnl_by_sentiment.png
+├── ds_report.pdf # Summary report (to be added)
+└── README.md # Project documentation
 
